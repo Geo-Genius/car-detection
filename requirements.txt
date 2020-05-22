@@ -1,0 +1,7 @@
+click
+numpy~=1.15
+rasterio>=1.0.9
+mxnet-cu90
+scipy
+geojson
+
